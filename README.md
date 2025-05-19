@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Fitur Utama (Frontend)
+## ✨ Fitur Utama
 
 - 📝 **Catatan**
   - Tambah, edit, dan hapus catatan (UI)
@@ -31,16 +31,4 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextAuth.js](https://next-auth.js.org/) _(rencana integrasi)_
-
----
-
-## 📌 Roadmap Frontend
-
-- [x] Setup Next.js + Tailwind
-- [ ] Halaman Login & Register
-- [ ] Tampilan CRUD Notes (Frontend only)
-- [ ] UI Pomodoro Timer dasar
-- [ ] UI Statistik Pomodoro
-- [ ] Dark Mode Toggle
-- [ ] Integrasi Google OAuth (UI)
-- [ ] Koneksi API/backend (opsional)
+- [Prisma + PostgreSQL](https://www.prisma.io/)
