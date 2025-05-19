@@ -1,6 +1,6 @@
 # Clarity – Frontend
 
-**Clarity** adalah antarmuka frontend dari aplikasi produktivitas berbasis web yang menggabungkan fitur **catatan (notes)** dan **Pomodoro Timer**. Dibangun menggunakan **Next.js** dan **Tailwind CSS**, proyek ini dirancang untuk memberikan pengalaman pengguna yang cepat, modern, dan responsif. Bagian ini hanya mencakup _frontend_ tanpa koneksi langsung ke backend atau database.
+**Clarity** adalah antarmuka frontend dari aplikasi produktivitas berbasis web yang menggabungkan fitur **catatan (notes)** dan **Pomodoro Timer**. Dibangun menggunakan **Next.js** dan **Tailwind CSS**, proyek ini dirancang untuk memberikan pengalaman pengguna yang cepat, modern, dan responsif.
 
 ---
 
